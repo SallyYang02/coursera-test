@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## SALLY'S PAGES
 
-You can use the [editor on GitHub](https://github.com/SallyYang02/coursera-test/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hellow my friends! Visit my website at https://github.com/SallyYang02/coursera-test/edit/main/README.md)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Hi
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+cat lover 101
 
 ```markdown
 Syntax highlighted code block
